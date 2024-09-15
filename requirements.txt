@@ -1,0 +1,5 @@
+Flask
+langchain
+faiss-cpu
+openai
+redis
